@@ -59,7 +59,7 @@
   <summary><b>[Designer 🎨]</b></summary>
   <div markdown="1">
     <ul>
-      <li><a href="https://www.instagram.com/qorhvmek_52>박재희</a></li>
+      <li><a href="https://www.instagram.com/qorhvmek_52">박재희</a></li>
       <li><a href="https://www.instagram.com/leeyoujin410">이유진</a></li>
     </ul>
   </div>
