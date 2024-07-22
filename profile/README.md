@@ -93,8 +93,8 @@
   <summary><b>[Developer 💻]</b></summary>
   <div markdown="1">
     <ul>
-      <li><a href="https://github.com/-">강재호</a></li>
-      <li><a href="https://github.com/-">이효은</a></li>
+      <li><a href="https://github.com/jaehokang1007">강재호</a></li>
+      <li><a href="https://github.com/Hyotaccato">이효은</a></li>
       <li><a href="https://github.com/3x-haust">유성윤</a></li>
       <li><a href="https://github.com/cuzurmyhabit">지수민</a></li>
     </ul>
