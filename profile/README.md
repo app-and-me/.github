@@ -93,7 +93,7 @@
   <summary><b>[Developer 💻]</b></summary>
   <div markdown="1">
     <ul>
-      <li><a href="https://github.com/lsy0906017">이서영</a></li>
+      <li><a href="https://github.com/lsy090601">이서영</a></li>
       <li><a href="https://github.com/sch161">조성찬</a></li>
       <li><a href="https://github.com/	kimheesung655">김희성</a></li>
       <li><a href="https://github.com/sinsua75">신수아</a></li>
