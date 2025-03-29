@@ -42,29 +42,6 @@
 ## Member
 <sub>개발과는 깃허브 링크, 디자인과는 인스타 링크로 대체합니다.</sub>
 
-### 11기
-<details>
-  <summary><b>[Developer 💻]</b></summary>
-  <div markdown="1">
-    <ul>
-      <li><a href="https://github.com/de-quei">김현지</a></li>
-      <li><a href="https://github.com/iris-starry">김선희</a></li>
-      <li><a href="https://github.com/seyeonparkk">박세연</a></li>
-      <li><a href="https://github.com/hyeg0121">황혜경</a></li>
-    </ul>
-  </div>
-</details>
-
-<details>
-  <summary><b>[Designer 🎨]</b></summary>
-  <div markdown="1">
-    <ul>
-      <li><a href="https://www.instagram.com/qorhvmek_52">박재희</a></li>
-      <li><a href="https://www.instagram.com/leeyoujin410">이유진</a></li>
-    </ul>
-  </div>
-</details>
-
 ### 12기
 <details>
   <summary><b>[Developer 💻]</b></summary>
@@ -107,6 +84,28 @@
     <ul>
       <li><a href="https://www.instagram.com/soo_g81">송지아</a></li>
       <li><a href="https://www.instagram.com/zush.ol">이서현</a></li>
+    </ul>
+  </div>
+</details>
+
+### 14기
+<details>
+  <summary><b>[Developer 💻]</b></summary>
+  <div markdown="1">
+    <ul>
+      <li><a href="https://github.com/lsy0906017">이서영</a></li>
+      <li><a href="https://github.com/sch161">조성찬</a></li>
+      <li><a href="https://github.com/	kimheesung655">김희성</a></li>
+      <li><a href="https://github.com/sinsua75">신수아</a></li>
+    </ul>
+  </div>
+</details>
+
+<details>
+  <summary><b>[Designer 🎨]</b></summary>
+  <div markdown="1">
+    <ul>
+      <li><a href="https://www.instagram.com/y.8xh_">문연경</a></li>
     </ul>
   </div>
 </details>
